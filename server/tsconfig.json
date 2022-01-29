@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"lib": ["ESNext"],
+		"allowSyntheticDefaultImports": true,
+		"moduleResolution": "node",
+		"noUnusedLocals": false, // @TODO change to true
+		"noUnusedParameters": false, // @TODO change to true
+		"removeComments": true,
+		"sourceMap": false,
+		"target": "ES2020",
+		"outDir": "lib",
+		"types": ["node"]
+	},
+	"include": ["*.ts", "serverless.ts"],
+	"exclude": ["node_modules/**/*"]
+}

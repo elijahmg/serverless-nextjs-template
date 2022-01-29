@@ -1,0 +1,9 @@
+{
+  "name": "next-vis-be-server-layer",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "jsonwebtoken": "8.5.1"
+  },
+  "devDependencies": {}
+}

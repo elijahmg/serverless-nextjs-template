@@ -1,0 +1,15 @@
+{
+  "name": "next-vis-fe-server-layer",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "axios": "0.24.0",
+    "jsonwebtoken": "8.5.1",
+    "next": "12.0.7",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "serverless-http": "^2.7.0",
+    "styled-components": "5.3.3"
+  },
+  "devDependencies": {}
+}
